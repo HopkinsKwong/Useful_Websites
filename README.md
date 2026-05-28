@@ -31,6 +31,7 @@
   
   # 3. 绑定【合作者原库】为上游 upstream（只需要执行一次）
   git remote add upstream git@github.com:合作者用户名/仓库名.git
+  git remote add upstream https://github.com/合作者用户名/仓库名.git
   
   # 4. 检查远程配置，确认 origin(你的fork)、upstream(原库)
   git remote -v
