@@ -2,6 +2,9 @@
 
 ## Claude Code 安装
 
+* 实验室Linux服务器配置Claude Code
+  * https://zhuanlan.zhihu.com/p/1974858513684657231
+
 * Claude Code 安装报错 “不兼容 Windows 版本“ 完整修复记录（WinGet安装）
   * https://deepseek.csdn.net/6a05ae8c10ee7a33f2728d49.html
 * 五分钟国内配置Claude Code+DeepSeek模型，完全操作指南
@@ -13,7 +16,7 @@
 
 * 跑代码连接不上huggingface怎么办？
   * https://zhuanlan.zhihu.com/p/689290456
- 
+
 ## Github
 
 * 登陆
@@ -63,3 +66,7 @@
   git push origin my-dev
   ```
 
+## SSH
+
+* VSCode配置 SSH连接远程服务器+免密连接教程
+  * https://zhuanlan.zhihu.com/p/667236864
